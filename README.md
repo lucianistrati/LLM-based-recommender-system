@@ -1,1 +1,1 @@
-# Sensity-homework
+# LLM based recommender system
